@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: sans-serif;
 }
 
 header {
@@ -59,7 +60,7 @@ header p {
   height: 5px;
   width: 5px;
   position: absolute;
-  left: 67px;
+  left: 75px;
   top: 40px;
 }
 .section ul {
@@ -84,7 +85,7 @@ header p {
   width: 30px;
   position: absolute;
   bottom: 17px;
-  left: 185px;
+  left: 200px;
   border-radius: 5px;
   text-align: center;
   padding: 4px 0px;
