@@ -216,6 +216,9 @@ header p {
   margin: auto;
   justify-content: flex-end;
 }
+.product-bar ul li a:hover {
+  color: red;
+}
 .product-bar ul li a {
   color: grey;
   text-decoration: none;
