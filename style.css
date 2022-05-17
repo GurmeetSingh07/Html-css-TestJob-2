@@ -4,11 +4,6 @@
   box-sizing: border-box;
 }
 
-@font-face {
-  font-family: fa-bold;
-  src: url(./Assets/fonts/fa-solid-900.ttf);
-}
-
 header {
   background-color: black;
   height: 50px;
@@ -55,9 +50,7 @@ header p {
   height: 70px;
   position: relative;
 }
-/* .section h2 {
-  position: relative;
-} */
+
 .section p {
   content: "";
   background-color: blue;
@@ -201,7 +194,7 @@ header p {
 .banner h1 {
   text-transform: uppercase;
 }
-
+/* <-----------------------------------------------------------------------------------------------> */
 .products {
   display: flex;
   margin-top: 150px;
